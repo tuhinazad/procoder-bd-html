@@ -8,3 +8,7 @@ table, tr, td, th{
     text-align: center;
     padding: 12px;
 }
+
+.b&i{
+    border: 3px solid greenyellow;
+}
